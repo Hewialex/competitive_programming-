@@ -16,3 +16,4 @@ class Solution:
                 stack.append(directory)
 
         return "/" + "/".join(stack)
+        
