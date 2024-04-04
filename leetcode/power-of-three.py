@@ -9,5 +9,3 @@ class Solution:
                 return False
             return poww(k//3)
         return poww(n)
-        
-
